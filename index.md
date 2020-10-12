@@ -18,13 +18,13 @@ Designing an efficient, adaptive, hybrid framework that can always choose the be
 
 ### Principal Investigators
 
-<img width="200" img align="right" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/95699439-45c17280-0bf9-11eb-8d43-38f1b65d65fc.jpg">
+<img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/95699439-45c17280-0bf9-11eb-8d43-38f1b65d65fc.jpg">
 
 **Dingwen Tao (Lead PI), Washington State University**
 
 Dingwen Tao is an assistant professor in the School of Electrical Engineering & Computer Science at Washington State University. He is also adjunct professor in the Department of Computer Science at the University of Alabama. He has published in the top-tier HPC and big data conferences and journals, including IEEE/ACM SC, ACM ICS, ACM HPDC, ACM PPoPP, ACM PACT, IEEE IPDPS, IEEE Cluster, IEEE/ACM DAC, IEEE BigData, ICPP, IEEE TPDS, etc. He is the receipt of the 2020 IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2020 NSF CRII Award, and 2017 UCR Dissertation Year Program Award.
 
-<img width="200" img align="right" alt="sheng-photo" src="https://user-images.githubusercontent.com/5705572/95699426-3cd0a100-0bf9-11eb-9e61-fcaed9698b20.jpg">
+<img width="200" alt="sheng-photo" src="https://user-images.githubusercontent.com/5705572/95699426-3cd0a100-0bf9-11eb-9e61-fcaed9698b20.jpg">
 
 **Sheng Di, University of Chicago and Argonne National Laboratory**
 
