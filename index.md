@@ -80,6 +80,12 @@ Under Construction
 
 Under Construction
 
+## Outreach
+
+<img width="180" img align="right" alt="NSF-logo" src="https://user-images.githubusercontent.com/5705572/81245654-2c2d5680-8fdb-11ea-9974-f3cc6857f7c5.png">
+
+[The 1st International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr20/) held with 2020 IEEE Big Data conference
+
 ## Acknowledgement & Disclaimer
 
 This material is based upon work supported by the National Science Foundation under Grant Nos. 2042084 and 2003709. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
