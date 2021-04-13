@@ -74,11 +74,13 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 ## Publications
 
-Under Construction
+- [**HPDC '21**] Sian Jin, Jesus Pulido, Pascal Grosset, Jiannan Tian, Dingwen Tao*, and James Ahrens. Adaptive Configuration of In Situ Lossy Compression for Cosmology Simulations via Fine-Grained Rate-Quality Modeling. In *Proceedings of the 30th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Virtual Event, Sweden, June 21-25, 2020.
+- [**IPDPS '21**] Jiannan Tian, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao*, and Franck Cappello. Revisiting Huffman Coding: Toward Extreme Performance on Modern GPU Architectures. In *2021 IEEE International Parallel and Distributed Processing Symposium*, Portland, Oregon, May 17-21, 2021. 
+- [**HPDC '20**] Kai Zhao, Sheng Di*, Xin Liang, Sihuan Li, Dingwen Tao, Zizhong Chen, and Franck Cappello. Significantly Improving Lossy Compression for HPC Datasets with Second-Order Prediction and Parameter Optimization. In *Proceedings of the 29th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Stockholm, Sweden, June 23-26, 2020. 
 
 ## Software
 
-Under Construction
+SZauto: SZ C++ Version that Supports Second-Order Prediction and Parameter Optimization (https://github.com/szcompressor/SZauto)
 
 ## Outreach
 
@@ -88,4 +90,4 @@ Under Construction
 
 ## Acknowledgement & Disclaimer
 
-This material is based upon work supported by the National Science Foundation under Grant Nos. 2042084 and 2003709. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the National Science Foundation under Grants No. 2042084 and 2003709. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
