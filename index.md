@@ -80,7 +80,7 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 ## Software
 
-SZauto: SZ C++ Version that Supports Second-Order Prediction and Parameter Optimization (https://github.com/szcompressor/SZauto)
+SZauto: SZ C++ Version that Supports Second-Order Prediction and Parameter Optimization ([https://github.com/szcompressor/SZauto](https://github.com/szcompressor/SZauto))
 
 ## Outreach
 
