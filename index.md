@@ -68,6 +68,10 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 **Daoce Wang, Washington State University**
 
+<img width="200" alt="baixi" src="https://user-images.githubusercontent.com/5705572/120055304-1cb7eb80-bfea-11eb-9cb9-2cf3f9ac67fd.png">
+
+**Baixi Sun, Washington State University**
+
 <img width="200" alt="yuanjian-photo" src="https://user-images.githubusercontent.com/5705572/95711380-7b755400-0c17-11eb-8404-0bf6c4bef877.jpg">
 
 **Yuanjian Liu, University of Chicago**
@@ -75,6 +79,7 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 ## Publications
 
 - [**HPDC '21**] Sian Jin, Jesus Pulido, Pascal Grosset, Jiannan Tian, Dingwen Tao*, and James Ahrens. Adaptive Configuration of In Situ Lossy Compression for Cosmology Simulations via Fine-Grained Rate-Quality Modeling. In *Proceedings of the 30th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Virtual Event, Sweden, June 21-25, 2020.
+- [**ICDE '21**] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello. Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation In *Proceeding of the 37th IEEE International Conference on Data Engineering*, Chania, Crete, Greece, Apr 19-22, 2021.
 - [**IPDPS '21**] Jiannan Tian, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao*, and Franck Cappello. Revisiting Huffman Coding: Toward Extreme Performance on Modern GPU Architectures. In *2021 IEEE International Parallel and Distributed Processing Symposium*, Portland, Oregon, May 17-21, 2021. 
 - [**HPDC '20**] Kai Zhao, Sheng Di*, Xin Liang, Sihuan Li, Dingwen Tao, Zizhong Chen, and Franck Cappello. Significantly Improving Lossy Compression for HPC Datasets with Second-Order Prediction and Parameter Optimization. In *Proceedings of the 29th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Stockholm, Sweden, June 23-26, 2020. 
 
