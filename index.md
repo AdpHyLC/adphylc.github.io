@@ -72,7 +72,7 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 **Baixi Sun, Washington State University**
 
-<img width="200" alt="yuanjian-photo" src="https://user-images.githubusercontent.com/5705572/95711380-7b755400-0c17-11eb-8404-0bf6c4bef877.jpg">
+<img width="200" alt="yuanjian-photo" src="https://user-images.githubusercontent.com/5705572/120055464-22fa9780-bfeb-11eb-8817-c4cb6ae44c51.jpeg">
 
 **Yuanjian Liu, University of Chicago**
 
