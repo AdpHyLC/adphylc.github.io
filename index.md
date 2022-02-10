@@ -40,7 +40,7 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 <img width="200" alt="kyle-photo" src="https://user-images.githubusercontent.com/5705572/95700249-625eaa00-0bfb-11eb-8717-92b8da1c5064.jpg">
 
-**Kyle, Chard, University of Chicago**
+**Kyle Chard, University of Chicago**
 
 *Online Data Analysis and Reduction*
 
