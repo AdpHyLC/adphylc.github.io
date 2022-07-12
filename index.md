@@ -18,7 +18,7 @@ Designing an efficient, adaptive, hybrid framework that can always choose the be
 
 ### Principal Investigators
 
-<img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/95699439-45c17280-0bf9-11eb-8d43-38f1b65d65fc.jpg">
+<img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/127750258-6646a6a7-ecb2-4b25-9e6a-2657bc1efbc1.jpg">
 
 **Dingwen Tao (Lead PI), Washington State University**
 
