@@ -1,6 +1,6 @@
 <img width="150" img align="right" alt="NSF-logo" src="https://user-images.githubusercontent.com/5705572/95711667-1d953c00-0c18-11eb-817b-1cc6a90d504d.png">
 
-**Project Title**: CDS&E: Collaborative Research: HyLoC: Objective-driven Adaptive Hybrid Lossy Compression Framework for Extreme-Scale Scientific Applications
+**Project Title**: CDS&E: HyLoC: Objective-driven Adaptive Hybrid Lossy Compression Framework for Extreme-Scale Scientific Applications
 
 **Principle Investigators**: [Dingwen Tao](https://www.dingwentao.com/), [Sheng Di](https://www.mcs.anl.gov/~shdi/)
 
