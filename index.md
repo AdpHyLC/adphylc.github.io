@@ -64,13 +64,13 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 ### Students
 
+<img width="200" alt="sian-photo" src="https://user-images.githubusercontent.com/5705572/178404152-09d1d297-a99a-401e-88c5-2c28b82ee79f.jpg">
+
+**Sian Jin, Washington State University**
+
 <img width="200" alt="daoce-photo" src="https://user-images.githubusercontent.com/5705572/95711377-77e1cd00-0c17-11eb-8d6f-893b092983a1.jpg">
 
 **Daoce Wang, Washington State University**
-
-<img width="200" alt="baixi" src="https://user-images.githubusercontent.com/5705572/120055304-1cb7eb80-bfea-11eb-9cb9-2cf3f9ac67fd.png">
-
-**Baixi Sun, Washington State University**
 
 <img width="200" alt="yuanjian-photo" src="https://user-images.githubusercontent.com/5705572/120055464-22fa9780-bfeb-11eb-8817-c4cb6ae44c51.jpeg">
 
@@ -78,19 +78,27 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 ## Publications
 
-- [**HPDC '21**] Sian Jin, Jesus Pulido, Pascal Grosset, Jiannan Tian, Dingwen Tao*, and James Ahrens. Adaptive Configuration of In Situ Lossy Compression for Cosmology Simulations via Fine-Grained Rate-Quality Modeling. In *Proceedings of the 30th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Virtual Event, Sweden, June 21-25, 2020.
+- [**TPDS '22**]  Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Dingwen Tao, Ian Foster, and Franck Cappello. Optimizing Error-Bounded Lossy Compression for Scientific Data with Diverse Constraints. *IEEE Transactions on Parallel and Distributed Systems*. 
+- [**SC '22**] Sian Jin, Dingwen Tao, Houjun Tang, Sheng Di, Suren Byna, Zarija Lukic, and Franck Cappello. Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5. In *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis*, Dallas, TX, USA, November 13–18, 2022.
+- [**ICDE '22**] Sian Jin, Sheng Di, Jiannan Tian, Suren Byna, Dingwen Tao, and Franck Cappello. Improving Prediction-Based Lossy Compression Dramatically via Ratio-Quality Modeling. In *Proceedings of the 38th IEEE International Conference on Data Engineering*, Virtual Event, May 9–12, 2022.
+- [**HPDC '22**] Daoce Wang, Jesus Pulido, Pascal Grosset, Sian Jin, Jiannan Tian, James Ahrens, and Dingwen Tao. TAC: Optimizing Error-Bounded Lossy Compression for Three-Dimensional Adaptive Mesh Refinement Simulations. In *Proceedings of the 31st ACM International Symposium on High-Performance Parallel and Distributed Computing*, Minneapolis, MN, June 27–July 1, 2022.
+- [**HPDC '22**] Xiaodong Yu, Sheng Di, Kai Zhao, Jiannan Tian, Dingwen Tao, Xin Liang, and Franck Cappello. Ultra-fast Error-bounded Lossy Compression for Scientific Dataset. In *Proceedings of the 31st ACM International Symposium on High-Performance Parallel and Distributed Computing*, Minneapolis, MN, June 27–July 1, 2022.
+- [**IPDPS ’22**] Cody Rivera, Sheng Di, Xiaodong Yu, Jiannan Tian, Dingwen Tao, and Franck Cappello. Optimizing Huffman Decoding for Error-Bounded Lossy Compression on GPUs. In *Proceedings of the 36th IEEE International Parallel and Distributed Symposium*, Lyon, France, May 30–June 3, 2022. 
+- [**HPDC '21**] Sian Jin, Jesus Pulido, Pascal Grosset, Jiannan Tian, Dingwen Tao, and James Ahrens. Adaptive Configuration of In Situ Lossy Compression for Cosmology Simulations via Fine-Grained Rate-Quality Modeling. In *Proceedings of the 30th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Virtual Event, Sweden, June 21-25, 2020.
 - [**ICDE '21**] Kai Zhao, Sheng Di, Maxim Dmitriev, Thierry-Laurent D. Tonellot, Zizhong Chen, and Franck Cappello. Optimizing Error-Bounded Lossy Compression for Scientiﬁc Data by Dynamic Spline Interpolation In *Proceeding of the 37th IEEE International Conference on Data Engineering*, Chania, Crete, Greece, Apr 19-22, 2021.
-- [**IPDPS '21**] Jiannan Tian, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao*, and Franck Cappello. Revisiting Huffman Coding: Toward Extreme Performance on Modern GPU Architectures. In *2021 IEEE International Parallel and Distributed Processing Symposium*, Portland, Oregon, May 17-21, 2021. 
+- [**IPDPS '21**] Jiannan Tian, Cody Rivera, Sheng Di, Jieyang Chen, Xin Liang, Dingwen Tao, and Franck Cappello. Revisiting Huffman Coding: Toward Extreme Performance on Modern GPU Architectures. In *2021 IEEE International Parallel and Distributed Processing Symposium*, Portland, Oregon, May 17-21, 2021. 
+- [**HiPC '21**] Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Chen Wang, Kyle Chard, Dingwen Tao, Ian Foster, and Franck Cappello. Optimizing Multi-Range based Error-Bounded Lossy Compression for Scientific Datasets. In *2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics*, Virtual Event, December 18–21, 2021.
 - [**HPDC '20**] Kai Zhao, Sheng Di*, Xin Liang, Sihuan Li, Dingwen Tao, Zizhong Chen, and Franck Cappello. Significantly Improving Lossy Compression for HPC Datasets with Second-Order Prediction and Parameter Optimization. In *Proceedings of the 29th ACM International Symposium on High-Performance Parallel and Distributed Computing*, Stockholm, Sweden, June 23-26, 2020. 
 
 ## Software
 
-SZauto: SZ C++ Version that Supports Second-Order Prediction and Parameter Optimization ([https://github.com/szcompressor/SZauto](https://github.com/szcompressor/SZauto))
+- SZauto: SZ C++ Version that Supports Second-Order Prediction and Parameter Optimization ([https://github.com/szcompressor/SZauto](https://github.com/szcompressor/SZauto))
+- HDF5 Parallel I/O with SZ ([https://github.com/jinsian/HDF5-SZ](https://github.com/jinsian/HDF5-SZ))
 
 ## Outreach
-
-- [The 1st International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr20/) held with 2020 IEEE Big Data conference.
+- [2022 NSF CSSI PI Meeting](https://cssi-pi-community.github.io/2022-meeting/) for "Towards a Sustainable Data and Software Cyberinfrastructure" at Alexandria, VA. 
 - [The 2nd International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr21/) held with 2021 IEEE Big Data conference.
+- [The 1st International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr20/) held with 2020 IEEE Big Data conference.
 
 ## Acknowledgement & Disclaimer
 
