@@ -97,9 +97,16 @@ Designing an efficient, adaptive, hybrid framework that can always choose the be
 - HDF5 Parallel I/O with SZ ([https://github.com/jinsian/HDF5-SZ](https://github.com/jinsian/HDF5-SZ))
 
 ## Outreach
+
 - [2022 NSF CSSI PI Meeting](https://cssi-pi-community.github.io/2022-meeting/) for "Towards a Sustainable Data and Software Cyberinfrastructure" at Alexandria, VA. 
+![2022-CDS E-HyLoC-Poster](https://user-images.githubusercontent.com/5705572/178804778-41b0f303-d0b0-43ef-a4ec-22d3228fb4cd.jpg)
+
 - [The 2nd International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr21/) held with 2021 IEEE Big Data conference.
+![IWBDR-21](https://user-images.githubusercontent.com/5705572/178805606-164c6d0e-5f5e-4b2b-a3e7-97db833c6d94.png)
+
 - [The 1st International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr20/) held with 2020 IEEE Big Data conference.
+![IWBDR-20](https://user-images.githubusercontent.com/5705572/178805910-beae98c3-3ec3-4e1d-8122-4ba84554cb69.png)
+
 
 ## Acknowledgement & Disclaimer
 
